@@ -1,3 +1,3 @@
-# HTML_1-dars
+# HTML_7-dars
 
-Ushbu repasitorida HTML_1-dars kodlari bor
+Ushbu repasitorida HTML_7-dars kodlari bor
